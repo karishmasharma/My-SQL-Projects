@@ -25,16 +25,23 @@ We will calculate the following metrics to measure business performance:
 Once the SQL analysis is complete, the next phase will involve data visualization in Power BI. The following charts will be created:
 
 🔹 Sales Trend Analysis
+
 📌 Daily Trend for Total Orders - A bar chart displaying daily sales trends.
+
 📌 Monthly Trend for Total Orders - A line chart showing sales variations over time.
 
 🔹 Sales Distribution
+
 📌 Percentage of Sales by Pizza Category - A pie chart representing sales across different pizza categories.
+
 📌 Percentage of Sales by Pizza Size - A pie chart analyzing customer preferences for pizza sizes.
+
 📌 Total Pizzas Sold by Pizza Category - A funnel chart comparing different pizza categories.
 
 🔹 Best & Worst Performers
+
 📌 Top 5 Best-Selling Pizzas - A bar chart highlighting the most popular pizzas based on revenue, quantity, and orders.
+
 📌 Bottom 5 Worst-Selling Pizzas - A bar chart identifying underperforming pizzas.
 
 🛠️ Technologies Used
@@ -46,10 +53,15 @@ Power BI (Visualization - To be implemented later)
 ### 📂 Project Structure
 
 📁 SQL-Projects
+
 │-- 📜 README.md  # Project documentation
+
 │-- 📜 queries.sql  # SQL scripts for data analysis
+
 │-- 📜 dataset.csv  # Sample dataset (if applicable)
+
 │-- 📜 insights.txt  # Summary of key findings
+
 📌 Next Steps
 
 ✅ Phase 1: SQL Data Analysis (✔ In Progress)
